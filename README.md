@@ -6,6 +6,7 @@
 ##### 2. mini-project에 대한 소개
 : mbti 성격 유형 검사를 통한 연령대별, 성별, 학부별 결과를 알아볼 수 있는 나만의 특별한 기록장 :) !!
 ##### 3. image
+![image](https://user-images.githubusercontent.com/130718248/236693824-79802c1b-ab8a-484a-8104-a6b8548f6315.png)
 ##### 4. mini-project가 가지고 있는 대략적인 기능 설명
 : 기존 파일이 존재한다면 불러오기
   1.조회(검사 결과 조회)
